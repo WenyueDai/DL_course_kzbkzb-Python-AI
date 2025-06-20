@@ -1,0 +1,1 @@
+Deep learning courses rooted from https://github.com/kzbkzb/Python-AI/
